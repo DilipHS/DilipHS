@@ -16,6 +16,8 @@ jobs:
       # ✅ THIS WAS MISSING (VERY IMPORTANT)
       - name: Checkout repository
         uses: actions/checkout@v4
+        env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
       - name: Generate snake
         uses: Platane/snk@v3

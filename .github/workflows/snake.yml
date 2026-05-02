@@ -13,14 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ✅ THIS WAS MISSING (VERY IMPORTANT)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: DilipHS
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to branch
+      - name: Commit snake
         uses: EndBug/add-and-commit@v9
         with:
           add: "dist"

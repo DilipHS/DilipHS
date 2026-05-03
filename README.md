@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dilip H S
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Java+Backend+Developer;DSA+Learner+%7C+Problem+Solver;Building+Projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=DSA+Learner+%7C+Problem+Solver;Building+Projects+%F0%9F%9A%80" />
 </p>
 
 🎓 B.Tech Computer Science Student

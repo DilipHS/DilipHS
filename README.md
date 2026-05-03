@@ -31,7 +31,15 @@
 ### 🛠️ Tech Stack
 
 <!-- AUTO-TECHSTACK-START -->
-<!-- This section updates automatically. Do not edit manually. -->
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 <!-- AUTO-TECHSTACK-END -->
 
 ---
@@ -39,7 +47,12 @@
 ### 🚀 Projects
 
 <!-- AUTO-PROJECTS-START -->
-<!-- This section updates automatically. Do not edit manually. -->
+| Project | Description | Language | Stars |
+|---|---|---|---|
+| [Calculator](https://github.com/DilipHS/Calculator) | Developed a responsive calculator application using JavaScript, implementing real-time arithmetic operations with an interactive user interface. | 🟥 HTML | — |
+| [Connect_Four](https://github.com/DilipHS/Connect_Four) | Built a scalable Connect Four game using HTML, CSS, and JavaScript featuring multi-player support, dynamic state management, and efficient win detection logic. | 🟨 JavaScript | — |
+| [Arogya-Sahaya-Connect](https://github.com/DilipHS/Arogya-Sahaya-Connect) | Offline-first, multilingual Digital Health Record Management System for migrant workers using ABHA-linked QR IDs, enabling secure, portable, and family-based healthcare access. | 🟨 JavaScript | — |
+
 <!-- AUTO-PROJECTS-END -->
 
 ---

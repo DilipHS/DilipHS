@@ -48,8 +48,8 @@
 
 | Project | Description | Language | Stars |
 |---|---|---|---|
+| [Connect_Four](https://github.com/DilipHS/Connect_Four) | _No description_ | 🟨 JavaScript | — |
 | [Calculator](https://github.com/DilipHS/Calculator) | _No description_ | 🟥 HTML | — |
-| [Student-Lecturer-Management-System](https://github.com/DilipHS/Student-Lecturer-Management-System) | _No description_ | ⬜ N/A | — |
 
 <!-- AUTO-PROJECTS-END -->
 

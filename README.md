@@ -1,58 +1,76 @@
-# 👋 Hi, I'm Dilip H S
+<!-- GitHub Profile README — DilipHS -->
+
+<h1 align="center">Hey there, I'm Dilip H S 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=DSA+Learner+%7C+Problem+Solver;Building+Projects+%F0%9F%9A%80" />
+  <b>B.Tech CSE Student &nbsp;|&nbsp; Aspiring Software & AI Engineer</b><br/>
+  I love turning ideas into real projects — one commit at a time.
 </p>
 
-💻 B.Tech CSE Student | Aspiring Software & AI Engineer
-🚀 Passionate about building real-world projects and improving problem-solving skills
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=DilipHS&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧑‍💻 About Me
 
-* Java
-* HTML, CSS, JavaScript
-* SQL
-* Git & GitHub
-
----
-
-## 🚀 Featured Projects
-
-### 🧮 Calculator App
-
-🔗 https://github.com/DilipHS/Calculator
-
-* Built using HTML, CSS, JavaScript
-* Performs basic arithmetic operations
-* Clean UI with responsive design
-
-📸 Preview:
-![Calculator](https://raw.githubusercontent.com/DilipHS/Calculator/main/screenshot.png)
+- 🎓 &nbsp; B.Tech in Computer Science & Engineering
+- 🚀 &nbsp; Building real-world projects to sharpen my full-stack & AI skills
+- 🌱 &nbsp; Currently learning **Data Structures & Algorithms** and exploring **AI/ML**
+- 💬 &nbsp; Ask me about Java, JavaScript, or anything web-related
+- ⚡ &nbsp; Fun fact: I debug code better with coffee ☕
 
 ---
 
-### 📌 Upcoming Projects
+### 🛠️ Tech Stack
 
-* DSA Tracker (Problem-solving tracker)
-* Student Management System (Java Full Stack)
-* AI Resume Analyzer
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DilipHS\&show_icons=true\&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![Streak](https://streak-stats.demolab.com?user=DilipHS\&theme=radical)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### 🚀 Projects
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+<!-- AUTO-PROJECTS-START -->
+<!-- This section is updated automatically by GitHub Actions. Do not edit manually. -->
+<!-- AUTO-PROJECTS-END -->
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DilipHS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilipHS&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilipHS&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DilipHS&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+</p>

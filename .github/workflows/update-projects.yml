@@ -1,14 +1,14 @@
-# .github/workflows/update-projects.yml
-# Place this file at: .github/workflows/update-projects.yml
-
 name: Auto Update Projects
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # runs every day at midnight UTC
+    - cron: '0 0 * * *'
   push:
-    branches: [main]       # also runs on every push
-  workflow_dispatch:       # allows manual trigger from GitHub UI
+    branches: [main]
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   update:
@@ -18,12 +18,12 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v4.4.0
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Run update script
         env:

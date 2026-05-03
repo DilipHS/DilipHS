@@ -45,6 +45,12 @@
 
 <!-- AUTO-PROJECTS-START -->
 <!-- This section is updated automatically by GitHub Actions. Do not edit manually. -->
+
+| Project | Description | Language | Stars |
+|---|---|---|---|
+| [Calculator](https://github.com/DilipHS/Calculator) | _No description_ | 🟥 HTML | — |
+| [Student-Lecturer-Management-System](https://github.com/DilipHS/Student-Lecturer-Management-System) | _No description_ | ⬜ N/A | — |
+
 <!-- AUTO-PROJECTS-END -->
 
 ---

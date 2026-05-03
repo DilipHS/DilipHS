@@ -48,8 +48,8 @@
 
 | Project | Description | Language | Stars |
 |---|---|---|---|
+| [Connect_Four](https://github.com/DilipHS/Connect_Four) | Built a scalable Connect Four game using HTML, CSS, and JavaScript featuring multi-player support, dynamic state management, and efficient win detection logic. | 🟨 JavaScript | — |
 | [Arogya-Sahaya-Connect](https://github.com/DilipHS/Arogya-Sahaya-Connect) | Offline-first, multilingual Digital Health Record Management System for migrant workers using ABHA-linked QR IDs, enabling secure, portable, and family-based healthcare access. | 🟨 JavaScript | — |
-| [Connect_Four](https://github.com/DilipHS/Connect_Four) | _No description_ | 🟨 JavaScript | — |
 | [Calculator](https://github.com/DilipHS/Calculator) | _No description_ | 🟥 HTML | — |
 
 <!-- AUTO-PROJECTS-END -->

@@ -44,8 +44,6 @@
 ### 🚀 Projects
 
 <!-- AUTO-PROJECTS-START -->
-<!-- This section is updated automatically by GitHub Actions. Do not edit manually. -->
-
 | Project | Description | Language | Stars |
 |---|---|---|---|
 | [Calculator](https://github.com/DilipHS/Calculator) | Developed a responsive calculator application using JavaScript, implementing real-time arithmetic operations with an interactive user interface. | 🟥 HTML | — |

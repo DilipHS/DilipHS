@@ -35,8 +35,8 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
@@ -49,11 +49,11 @@
 <!-- AUTO-PROJECTS-START -->
 | Project | Description | Language | Stars |
 |---|---|---|---|
-| [Arogya-Sahaya-Connect](https://github.com/DilipHS/Arogya-Sahaya-Connect) | Offline-first, multilingual Digital Health Record Management System for migrant workers using ABHA-linked QR IDs, enabling secure, portable, and family-based healthcare access. | 🟨 JavaScript | ⭐ 1 |
-| [Todo-list](https://github.com/DilipHS/Todo-list) | Todo List App  A simple and responsive Todo List web application built using HTML, CSS, and JavaScript. This project helps users organize daily tasks efficiently with features like adding, deleting, and managing tasks through a clean and interactive user interface. | 🟦 CSS | — |
-| [E-commerce-Website](https://github.com/DilipHS/E-commerce-Website) | A responsive and modern E-Commerce Website built using HTML, CSS, and JavaScript featuring product listings, shopping cart UI, responsive design, and an interactive user experience for online shopping. | 🟥 HTML | — |
-| [Calculator](https://github.com/DilipHS/Calculator) | Developed a responsive calculator application using JavaScript, implementing real-time arithmetic operations with an interactive user interface. | 🟥 HTML | — |
-| [Connect_Four](https://github.com/DilipHS/Connect_Four) | Built a scalable Connect Four game using HTML, CSS, and JavaScript featuring multi-player support, dynamic state management, and efficient win detection logic. | 🟨 JavaScript | — |
+| [Arogya-Sahaya-Connect](https://github.com/DilipHS/Arogya-Sahaya-Connect) | Offline-first, multilingual Digital Health Record Management System for migrant workers using ABHA-linked QR IDs, enabling secure, portable, and family-based healthcare access. | 🟨 JavaScript | ⭐ 2 |
+| [Todo-list](https://github.com/DilipHS/Todo-list) | Todo List App  A simple and responsive Todo List web application built using HTML, CSS, and JavaScript. This project helps users organize daily tasks efficiently with features like adding, deleting, and managing tasks through a clean and interactive user interface. | 🟦 CSS | ⭐ 1 |
+| [E-commerce-Website](https://github.com/DilipHS/E-commerce-Website) | A responsive and modern E-Commerce Website built using HTML, CSS, and JavaScript featuring product listings, shopping cart UI, responsive design, and an interactive user experience for online shopping. | 🟥 HTML | ⭐ 1 |
+| [Calculator](https://github.com/DilipHS/Calculator) | Developed a responsive calculator application using JavaScript, implementing real-time arithmetic operations with an interactive user interface. | 🟥 HTML | ⭐ 1 |
+| [Connect_Four](https://github.com/DilipHS/Connect_Four) | Built a scalable Connect Four game using HTML, CSS, and JavaScript featuring multi-player support, dynamic state management, and efficient win detection logic. | 🟨 JavaScript | ⭐ 1 |
 
 <!-- AUTO-PROJECTS-END -->
 

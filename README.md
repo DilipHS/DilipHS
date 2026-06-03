@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -54,6 +55,7 @@
 | [E-commerce-Website](https://github.com/DilipHS/E-commerce-Website) | A responsive and modern E-Commerce Website built using HTML, CSS, and JavaScript featuring product listings, shopping cart UI, responsive design, and an interactive user experience for online shopping. | 🟥 HTML | ⭐ 1 |
 | [Calculator](https://github.com/DilipHS/Calculator) | Developed a responsive calculator application using JavaScript, implementing real-time arithmetic operations with an interactive user interface. | 🟥 HTML | ⭐ 1 |
 | [Connect_Four](https://github.com/DilipHS/Connect_Four) | Built a scalable Connect Four game using HTML, CSS, and JavaScript featuring multi-player support, dynamic state management, and efficient win detection logic. | 🟨 JavaScript | ⭐ 1 |
+| [student-management-system](https://github.com/DilipHS/student-management-system) | A Java-based Student Management System that allows users to add, view, search, and delete student records using Object-Oriented Programming (OOP) concepts and ArrayList data structures. | 🟧 Java | — |
 
 <!-- AUTO-PROJECTS-END -->
 
